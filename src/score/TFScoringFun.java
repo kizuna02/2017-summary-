@@ -11,8 +11,8 @@ public class TFScoringFun implements TermScoringFun {
 	}
 
 	@Override
-	public double scoreToken(String term, int freq) {
-		return (double)freq; // Ignore term since not looking at IDF
+	public double scoreToken(String term, int freq) { 
+          return (double)freq;
 	}
 
 }
