@@ -1,0 +1,11 @@
+FailedTestCases:
+test9: InvertedIndex getDocumentFrequency() 
+Query Term: Qualcomm
+Using StaticDocSource, SimpleTokenizer and TFScoringFun 
+User: 1
+Expected: 2
+
+
+Your grade for this assignment: 7.5 out of 8.0
+If you think there is a grading mistake,
+Please consult the TA during office hours.
